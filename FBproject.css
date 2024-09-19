@@ -1,0 +1,195 @@
+body{
+    margin: 0px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.header{
+    background: #4267b2;
+    width: 100%;
+    height: 90px;
+}
+.logo{
+    width: 55%;
+    padding-top: 30px;
+    float: left;
+}
+.login{
+    width: 45%;
+    float: left;
+    padding-top: 15px;
+}
+.logo-style{
+    color: #fff;
+    font-size: 45px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 150px;
+}
+.login-label{
+    color: #fff;
+    font-size: 12px;
+}
+.controls{
+    margin-left: 115px;
+}
+.forgot{
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+    color: #9cb4d8;
+}
+.subutton{
+    background: #4267b2;
+    color: #fff;
+    border-color: #29487d;
+    border: 5px;
+    cursor: pointer;
+}
+.subutton:hover{
+    background:darkblue;
+}
+.right-part{
+    width: 60%;
+    height: 500px;
+    float: left;
+}
+.left-part{
+    width: 40%;
+    height: 500px;
+    float: left;  
+}
+.main-body{
+    background: linear-gradient(#e1effa,#babfd2);
+    width: 100%;
+    height: 660px;
+}
+.image{
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 750px;
+    height: 500px;
+}
+.para{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.placeholder{
+    height: 24px;
+    width: 200px;
+    font-size: 15px;
+    border-color: #fff;
+    margin-left: 10px;
+    border-radius: 2px;
+}
+.input{
+    width: 362px;
+    height: 27px;
+    margin: 7px;
+    border-radius: 5px;
+}
+.name{
+    width: 170px;
+    height: 27px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.easy{
+    color: #1d1d1d;
+}
+.choos{
+    padding-top: 15px;
+    width: 450px;
+    border-radius: 5px;
+}
+.day{
+    color: #1d1d1d;
+    width: 70px;
+    border-radius: 5px;
+    margin: 6px;
+}
+.box{
+    height: 25px;
+    width: 80px;
+    border-radius: 5px;
+    margin: 6px;
+    cursor: pointer;
+}
+.box2{
+    height: 25px;
+    width: 100px;
+    border-radius: 5px;
+    margin: 6px;
+    cursor: pointer;
+}
+.box3{
+    height: 25px;
+    width: 100px;
+    border-radius: 5px;
+    margin: 6px;
+    cursor: pointer;
+}
+.gender{
+    color: #1d1d1d;
+    width: 70px;
+    margin: 5px;
+}
+.radio{
+    padding-top: 15px;
+    width: 450px;
+}
+.lastpara{
+    font-size: xx-small;
+    margin-left: 5px;
+}
+.policy{
+    text-decoration: none;
+}
+.Sign{
+    margin-left: 5px;
+    width: 150px;
+    height: 35px;
+    background:green;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+.last{
+    padding-top: 25px;
+    margin-left: 5px;
+}
+.footer{
+    padding-top: 50px;
+    padding-left: 10%;
+    width: 90%;
+    height: 200px;
+    background: linear-gradient(#c9cbd4,#e3ebf2);
+}
+.lan{
+    font-size: small;
+    font-weight: 510;
+    color: #1c2846;
+}
+.but{
+    width: 35px;
+    height: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.line{
+    width: 80%;
+    height: 1px;
+    background: gray;
+}
+.span{
+    word-spacing: normal;
+}
+.water{
+    padding-top: 15px;
+    color: rgb(74, 73, 73);
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: small;
+    font-weight: 600;
+}
